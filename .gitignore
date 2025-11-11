@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Data files
+Goodreads Data/Combined_Reviews.csv
+*.csv
+*.json
+*.xlsx
+
+# Environment files
+.env
+*.env
+venv/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
